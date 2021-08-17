@@ -1,0 +1,44 @@
+Document Tags 
+  - <html>
+  - <head>
+    <body>
+Document Structure Tags 
+ - <div>
+ - <section>
+ - <article>
+- <header>
+- <footer>
+
+Text Formating 
+  - <h1><h2> h3, h4, h5, h6 
+  - <p> <span> <b> <strong>
+Links 
+<a> Home</a>
+------------------
+Image 
+<img />
+
+List Tags  
+ - <ul> <ol> <li>
+
+Table 
+ ----------
+ <table>
+ <thead>
+ <tbody>
+ <tr> <td> <th>
+
+ frame Tags 
+ --------------
+ <iframe>
+
+ Form 
+ -----------
+ <form>
+ <input> 
+ <label>
+ <select>
+  <option> 
+  <textarea>
+  <button>
+  
