@@ -1,0 +1,21 @@
+What is CSS?
+
+CSS Features?
+-------------
+1.Styles Reusability(using css selector)
+2.Flexible/Browser complatable
+3.Portable 
+4.Saves of lot of time - class selector
+5.Page loads faster 
+6.Global Changing
+
+How many way we can apply css?
+1.inline /Tag level  
+2.internal/page level              ---<script></script> 
+3.external CSS                     --- <linl>
+
+
+
+
+Rule 1: Nearest Style has Highest Prority
+<h1 style="b-c:red">Welcome</h1>
