@@ -19,3 +19,25 @@ Primitive(6) and Non Primitive(1)
 How to find the data type?
 
 typeof -
+
+
+-----------------------------------
+JS Operators
+
+1)Arithmatic (+, - , *, /, % , **)
+2)Assignment ( = )
+
+3)Relational/conditional  (<, <=, >, >=)
+4)Logical Operators (&& and || )
+
+5)Equlity   (  == ,  != ,  === )
+
+6)Incr and Decr (++, --)
+7)Ternary Operator( ?  :  ) alternative of if  else 
+8)Bitwise Operators
+
+
+
+note: We can't apply incr and decr Operators values 
+      We can appy variable only.
+ 
